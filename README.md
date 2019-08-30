@@ -1,4 +1,4 @@
-# Empresas que usam PWA em Angola
+# Empresas ou produtos que usam PWA em Angola
 
 Repositório de empresas ou produtos usando PWA em Angola
 
