@@ -6,4 +6,4 @@ Repositório de empresas ou produtos usando PWA em Angola
 
 Nome|Site|Tecnologias
 :--:|----|-----------
-Cinemas Cinemax|https://cinemax.co.ao|[Nuxt.js](https://github.com/e200/companies-using-nuxt-in-angola), [GraphQL](https://github.com/e200/companies-using-graphql-in-angola)
+Cinemas Cinemax|https://cinemax.co.ao|[Nuxt.js](https://github.com/e200/companies-using-vuejs-in-angola), GraphQL
