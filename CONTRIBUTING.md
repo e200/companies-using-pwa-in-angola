@@ -1,4 +1,4 @@
-# Còdigo de conduta
+# Código de conduta
 
 - As novas adicões devem ser feitas em ordem alfabética
 - Não adicionar links com o objectivo de promover a empresa ou produto
